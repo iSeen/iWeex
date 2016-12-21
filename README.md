@@ -57,3 +57,13 @@ xcode打开workspace项目文件, 添加内容详见AppDelegate.m.
 弹框选择注意:  不选copy, 选择第二项蓝色文件夹, 选择target.
 
 9.ViewController添加相关代码;
+
+### 参考链接:  
+[Weex社区](http://www.jianshu.com/collection/f152a6d31479)
+
+[Weex中文文档](http://www.weex.help/topic/57792770eb60516a48db5485)
+
+[vue.js](http://cn.vuejs.org): 渐进式 JavaScript 框架
+
+[初识与安装](https://vczero.github.io/weex-learning/001_helloworld.html)
+
