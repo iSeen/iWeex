@@ -1,5 +1,5 @@
 # iWeex
-alibaba / weex:  
+#### alibaba / weex:  
 [GitHub](https://github.com/alibaba/weex)  
 [官网](http://alibaba.github.io/weex)
 
@@ -7,6 +7,11 @@ Weex是阿里开源的一套构建跨平台的移动框架。
 对于前端的同学，最直观的是web components的开发方式；  
 对于Native同学，可以理解为使用web的开发方式构建跨平台移动程序（iOS & Android）。  
 可以类比的是React Native，但是相对React Native更为彻底：不仅统一了 iOS/Android的差异，更是实现了三端的统一。
+
+其他跨平台框架:  
+[DeviceOne](http://www.deviceone.net)
+
+
 
 
 ### 配置环境
